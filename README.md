@@ -44,19 +44,13 @@ AI • Data Science • Frontend Development
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,html,java,mysql" />
 </p>
 
-### 📊 Data Science & AI
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
@@ -95,7 +89,7 @@ AI • Data Science • Frontend Development
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/amir-khushroo">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -103,7 +97,7 @@ AI • Data Science • Frontend Development
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="amirkhushroo664@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
