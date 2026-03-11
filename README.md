@@ -4,4 +4,128 @@
 **amirkhushroo/amirkhushroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<!-- ================= HEADER ================= -->
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00c6ff&height=200&section=header&text=Amir%20Khushroo&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h3 align="center">
+AI • Data Science • Frontend Development
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Frontend+Developer;Python+Developer;Future+AI%2FML+Engineer"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 **B.Tech Computer Science & Engineering (AI Specialization)**  
+🏫 Integral University, Lucknow  
+
+💡 Passionate about building **AI systems, data science projects, and modern web interfaces**
+
+🚀 Currently learning  
+
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- Frontend Development  
+
+🎯 Goal: **Become an AI/ML Engineer building impactful systems**
+
+---
+
+# 🧠 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### 📊 Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirkhushroo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirkhushroo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=amirkhushroo&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirkhushroo&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/amirkhushroo">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+🧠 Artificial Intelligence  
+📊 Data Science  
+🌐 Frontend Development  
+⚡ Building AI-powered projects  
+
+---
+
+# ⚡ Fun Fact
+
+🍦 Favorite Ice Cream: **Cotton Candy**
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:243B55&height=120&section=footer"/>
+</p>
