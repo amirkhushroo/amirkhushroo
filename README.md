@@ -15,7 +15,8 @@ AI • Data Science • Frontend Development
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;Python+Developer;Data+Analytics+Enthusiast;Advanced+SQL+Developer;Java+Programmer;Building+AI+Projects;Aspiring+AI%2FML+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Data+Science+%26+AI)+Student;Python+Developer;Data+Analyst;Advanced+SQL+Developer;Java+Programmer;Building+AI+Projects;Aspiring+AI%2FML+Engineer" />
+</p>
 
 ---
 
