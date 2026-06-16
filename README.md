@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">
-AI • Data Science • Frontend Development
+AI • Data Science • SQL And Database Enthusiast  • python Devloper  • Aspiring Data Analyst
 </h3>
 
 <p align="center">
