@@ -110,8 +110,8 @@ AI • Data Science • SQL And Database Enthusiast  • python Devloper  • As
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="amirkhushroo664@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:amirkhushroo664@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
